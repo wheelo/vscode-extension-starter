@@ -1,9 +1,12 @@
 # vscode-extension-starter
 
-This is the README for your extension "vstodo". After writing up a brief description, we recommend including the following sections.
+a start point of one vscode extension
 
 ## Features
 
+* webview
+
+* persistence
 
 
 ## Requirements

@@ -9,9 +9,11 @@ a start point of one vscode extension
 * persistence
 
 
-## Requirements
+## How to start
 
-
+```
+pnpm run watch
+```
 
 ## Extension Settings
 
